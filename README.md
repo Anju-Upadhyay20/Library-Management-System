@@ -1,6 +1,6 @@
 """
 Date: 13 July 2023
-Author: Anju Upadadhaya
+Author: Anju Upadadhyay
 Project: Student library management system
 """
 
